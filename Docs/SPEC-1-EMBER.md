@@ -330,4 +330,4 @@ All rights reserved.
 Unauthorized reproduction, modification, or redistribution of this specification in whole or in part is strictly prohibited.  
 This document is provided for personal, ethical development and reference only under the ARCHE Personal Use + Ethical Enforcement License.
 
-For licensing inquiries, contact: contact@archelabs.org (placeholder)
+For licensing inquiries, contact: contact @a_verity1@aol.com
