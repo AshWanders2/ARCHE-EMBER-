@@ -6,6 +6,8 @@ Forensic defense &amp; ethical tooling. Not for sale.
   <img src="Assets/ember_face.jpg" alt="EMBER: The Guardian" width="350"/>
 </p>
 
+![image](https://github.com/user-attachments/assets/5eb6e9a7-882f-42da-8beb-513d3b5f7c5a)
+
 <p align="center"><strong>ARCHE + EMBER</strong></p>
 <p align="center">Ethical technologies for digital accountability and forensic protection.</p>
 
