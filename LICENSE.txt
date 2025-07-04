@@ -1,0 +1,45 @@
+---
+
+## License & Use
+
+This project is protected under the **ARCHE Personal Use + Ethical Enforcement License**.  
+It is not open source.
+
+🛑 You may not:
+- Rebrand, repurpose, or resell this work
+- Modify it for surveillance, coercion, or manipulation
+- Obscure attribution or claim original authorship
+
+✅ You may:
+- Use it for protection, education, and ethical development
+- Study and adapt it *with credit and non-harmful intent*
+- Share the unmodified work with visible licensing
+
+[View LICENSE.txt](LICENSE.txt)
+
+---
+
+## Badge
+
+[![License: ARCHE](https://img.shields.io/badge/license-ARCHE--Personal--Use-blueviolet)](LICENSE.txt)
+
+---
+
+## Maintainer
+
+**A. Verity / ARCHE Labs**
+
+This project was created in response to systemic platform failure.  
+It exists to track what others ignore and protect what others abandon.
+
+This is ethical code.  
+Built with precision.  
+Released with intent.  
+Governed by principle.
+
+---
+
+## Contact
+
+Website (coming soon): [archelabs.org](https://archelabs.org)  
+Until then: If you found this, you’re probably who it was built for.
