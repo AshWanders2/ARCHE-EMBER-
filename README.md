@@ -31,4 +31,10 @@ This repo contains ARCHE + EMBER’s public framework:
 
 ---
 
+---
+
+© 2025 A. Verity / ARCHE Labs  
+All rights reserved.  
+Unauthorized reproduction, modification, or redistribution of this specification in whole or in part is strictly prohibited.  
+This document is provided for personal, ethical development and reference only under the ARCHE Personal Use + Ethical Enforcement License.
 
